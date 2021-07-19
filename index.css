@@ -1,0 +1,19 @@
+body {    
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+div#viewer {
+    background-color: #ddd;
+    height: 600px;
+    margin: 0px 0px 10px 0px;
+    padding: 0px 0px 0px 0px;
+    position: relative;
+}
+
+div#canvas {
+    width: 100%;
+    height: 100%;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+}
